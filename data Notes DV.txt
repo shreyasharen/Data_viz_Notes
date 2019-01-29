@@ -1,3 +1,0 @@
-•	Data’s are turned into meaningful information
-•	Data visualization is a data field which has many tools like tableau, power BI which can be used
-•	Data visualization helps to break down complex data using charts or patterns relationship between the activity 
